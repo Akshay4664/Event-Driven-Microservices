@@ -1,0 +1,1 @@
+This project involves building event-driven microservices using Spring Boot and Apache Kafka. The primary objective is to utilize Apache Kafka as a message broker to facilitate asynchronous communication between multiple microservices.
